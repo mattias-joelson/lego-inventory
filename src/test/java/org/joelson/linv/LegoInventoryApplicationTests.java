@@ -1,0 +1,13 @@
+package org.joelson.linv;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LegoInventoryApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
